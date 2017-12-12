@@ -11,3 +11,10 @@
     git commit -m "first commit"
     git remote add origin https://github.com/CarrieShi/dev17.git
     git push -u origin master
+
+
+### Second Commit
+
+    git add README.md
+    git commit -m "second commit"
+    git push -u origin master
